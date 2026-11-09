@@ -1,0 +1,60 @@
+body {
+    background-color: rgb(8, 2, 40);
+    color: rgb(120, 120, 120);
+}
+
+h1, h2 {
+    color: white;  
+    margin-top: 50px;
+}
+
+.centralizado {
+    text-align: center;
+}
+
+.descricao {
+    width: 60%;
+    margin: 0 auto;
+    text-align: justify;
+}
+
+.foto-perfil {
+    display: block;
+    margin: 0 auto;
+    margin-bottom: 50px;
+}
+
+
+a:hover {
+    color: rgb(19, 2, 130);
+    text-decoration: underline;
+}
+
+.links {
+    display: flex;
+    gap: 30px;
+}
+
+.link-item {
+    text-align: center;
+}
+
+.link-item img {
+    display: block;
+}
+
+.link-icone {
+    height: 140px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.link-icone img {
+    max-height: 140px;
+    max-width: 150px;
+}
+
+.ajuste {
+    margin-right: 450px;
+}

@@ -1,0 +1,9 @@
+body {
+    background-color: gray;
+    color: white;
+}
+
+a:hover {
+    color: cyan;
+    text-decoration: underline;
+}

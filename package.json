@@ -1,0 +1,13 @@
+{
+  "name": "lab7-servidor-estatico",
+  "version": "1.0.0",
+  "private": true,
+  "description": "LAB 7 - Servidor estático Node.js e Express",
+  "main": "servidor.js",
+  "scripts": {
+    "start": "node servidor.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
